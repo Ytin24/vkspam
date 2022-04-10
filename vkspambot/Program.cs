@@ -6,6 +6,7 @@ using VkNet.Model.RequestParams;
 using VkNet.AudioBypassService.Extensions;
 using VkNet.Enums.SafetyEnums;
 using Microsoft.Extensions.DependencyInjection;
+//@ytin24
 
 namespace Vkspam
 {
